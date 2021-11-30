@@ -1,5 +1,5 @@
-## NETFLIX CLONE
-# Created Netflix Clone using Django Python and allauth API.
+# NETFLIX CLONE
+### Created Netflix Clone using Django Python and allauth API.
 - Clone Repositiry
 - run the following command in your terminal
 
